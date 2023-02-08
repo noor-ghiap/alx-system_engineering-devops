@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls  ___ls___
+lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
